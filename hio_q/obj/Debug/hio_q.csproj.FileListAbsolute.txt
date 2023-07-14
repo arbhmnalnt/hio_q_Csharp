@@ -1,0 +1,9 @@
+C:\Users\ahmed\source\repos\hio_q\bin\Debug\hio_q.exe
+C:\Users\ahmed\source\repos\hio_q\bin\Debug\hio_q.pdb
+C:\Users\ahmed\source\repos\hio_q\obj\Debug\hio_q.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\hio_q\obj\Debug\hio_q.Form1.resources
+C:\Users\ahmed\source\repos\hio_q\obj\Debug\hio_q.Properties.Resources.resources
+C:\Users\ahmed\source\repos\hio_q\obj\Debug\hio_q.csproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\hio_q\obj\Debug\hio_q.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\hio_q\obj\Debug\hio_q.exe
+C:\Users\ahmed\source\repos\hio_q\obj\Debug\hio_q.pdb
