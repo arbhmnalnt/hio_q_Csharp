@@ -280,7 +280,7 @@
             this.textBox1.Location = new System.Drawing.Point(824, 187);
             this.textBox1.MinimumSize = new System.Drawing.Size(90, 80);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(346, 80);
+            this.textBox1.Size = new System.Drawing.Size(346, 41);
             this.textBox1.TabIndex = 28;
             this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -290,7 +290,7 @@
             this.textBox2.Location = new System.Drawing.Point(463, 196);
             this.textBox2.MinimumSize = new System.Drawing.Size(90, 50);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(297, 50);
+            this.textBox2.Size = new System.Drawing.Size(297, 30);
             this.textBox2.TabIndex = 29;
             this.textBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -327,7 +327,7 @@
             // 
             this.label15.AutoSize = true;
             this.label15.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label15.Location = new System.Drawing.Point(44, 152);
+            this.label15.Location = new System.Drawing.Point(82, 152);
             this.label15.Name = "label15";
             this.label15.Size = new System.Drawing.Size(210, 32);
             this.label15.TabIndex = 33;
